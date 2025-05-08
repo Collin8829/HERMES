@@ -9,7 +9,7 @@ This repository will host the reference implementation for the HERMES model, a n
 ## 📖 Paper
 
 > **HERMES: Heterogeneous Mixture of Experts Based on Segments for Auditory Attention Decoding**  
-> Accepted at the 2025 International Conference on Intelligent Computing  
+> Accepted at the 2025 21st International Conference on Intelligent Computing(ICIC) 
 > To appear in Springer Lecture Notes in Computer Science (LNCS / LNBI)
 
 ---
