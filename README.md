@@ -2,7 +2,7 @@
 
 **HETEROGENEOUS MIXTURE OF EXPERTS BASED ON SEGMENTS FOR AUDITORY ATTENTION DECODING**
 
-This repository will host the reference implementation for the HERMES model, a novel heterogeneous mixture-of-experts architecture for segment-level auditory attention decoding.
+This repository will host the reference implementation for the HERMES model, a novel segment-level heterogeneous mixture-of-experts architecture for EEG based auditory attention decoding.
 
 ---
 
